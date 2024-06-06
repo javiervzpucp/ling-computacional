@@ -1,0 +1,2 @@
+# ling-computacional
+lingüística computacional
